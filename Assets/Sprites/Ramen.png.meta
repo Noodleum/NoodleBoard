@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 09083a7b83967a94eb095ee38ef65e72
+guid: d9b6b91dc6901cb40b576c7acc166b25
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5676883942042985820
-    second: pixellab-an-empty-noodle-bowl--1766094112295_0
+      213: 4911007776997675480
+    second: Ramen_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pixellab-an-empty-noodle-bowl--1766094112295_0
+      name: Ramen_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 25
-        width: 90
-        height: 56
+        x: 16
+        y: 19
+        width: 96
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4aa9863d128a731b0800000000000000
-      internalID: -5676883942042985820
+      spriteID: 8d19025bd87672440800000000000000
+      internalID: 4911007776997675480
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pixellab-an-empty-noodle-bowl--1766094112295_0: -5676883942042985820
+      Ramen_0: 4911007776997675480
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
